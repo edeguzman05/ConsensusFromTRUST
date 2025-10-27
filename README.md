@@ -1,9 +1,10 @@
-# ConsensusFromTRUST
+Course: CPSC 459 – Project 2
+Student: Brandon Nolan
+Section #: 459-01
+Email: brandonnolan@csu.fullerton.edu
 
-# Project 2 - Consensus From Trust
-Class Section: CPSC 459 - Section 01
+Submission Contents
 
-Name: Robert Hanakeawe, Emmanuel De Guzman, Brandon Nolan, Minh Duc Ngo
+CompliantNode.java – Implementation of the compliant node for the distributed consensus project.
 
-Email: robert_hanakeawe@csu.fullerton.edu, edegguzmanjr05@csu.fullerton.edu, brandonnolan@csu.fullerton.edu, minh.nd0703@csu.fullerton.edu
-
+ExtraCredit.pdf – Analysis of maximum tolerated malicious nodes under different simulation parameters.
