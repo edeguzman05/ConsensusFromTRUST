@@ -1,3 +1,5 @@
+# Project 2: Consensus from Trust
+
 Course: CPSC 459 – Project 2
 Student: Brandon Nolan, Minh Duc Ngo, Robert Hanakeawe, Emmanuel De Guzman,
 Section #: 459-01
